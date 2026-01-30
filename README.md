@@ -1,6 +1,6 @@
 # ical-gateway
 
-ical-gateway is a work-in-progress project that allows users to create filtered iCalendar subscriptions. Many calendar subscriptions (like hobbies, school, or public schedules) are read-only and cannot be modified. This project lets users remove unwanted events or individual occurrences from such subscriptions while still keeping automatic updates from the original source.
+ical-gateway is a work-in-progress project that allows users to create filtered iCalendar subscriptions. All of calendar subscriptions (like hobbies, school, or public schedules) are read-only and cannot be modified. This project lets users remove unwanted events or individual occurrences from such subscriptions while still keeping automatic updates from the original source.
 
 ## Key goals:
 - Import a read-only .ics subscription link
